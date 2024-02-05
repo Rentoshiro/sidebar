@@ -20,7 +20,7 @@ function Sidebar() {
             <li key={id}>
               <a href={url}>
                 {icon}
-                {text}{" "}
+                {text}
               </a>
             </li>
           );
